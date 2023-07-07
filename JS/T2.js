@@ -1,6 +1,9 @@
-/* Numbers */
+/******************************************************/
+/*                  Numbers                          */
+/******************************************************/
 
-let age = 20
+
+//let age = 20
 let height = 5.7
 const PI = 3.142
 
@@ -10,7 +13,11 @@ const PI = 3.142
 // console.log(Math.pow(4, 3))
 
 
-/* Strings */
+/******************************************************/
+/*                  Strings                          */
+/******************************************************/
+
+
 
 let blank = ' '
 let firstName = 'Virat'
@@ -68,4 +75,67 @@ let team = "Royal Challengers Bangalore"
 let someText = "          Challengers            "
 //console.log(someText.trim().length)
 
-console.log(bioData.includes('runs'))
+
+let new_string = bioData.replace('Indian', 'African')
+
+
+// console.log(bioData.includes('trophy'))
+// console.log(bioData.startsWith('trophy'))
+// console.log(bioData.endsWith('trophy'))
+// console.log(bioData.indexOf('cricket'))
+// console.log(bioData.lastIndexOf('cricket'))
+// console.log(bioData.indexOf('Football'))
+
+
+let name = 'Virat'
+// let age = 33
+
+// let desc1 = "Hi My Name is "
+// let desc2 = " and I am "
+
+// //desc1 = desc1.concat(name, desc2, age, " years old.")
+// //console.log(name.repeat(10))
+
+
+// let pattern_year = /\d{10}/g
+// let pattern_cricket = 'cricket'
+
+// //console.log(bioData.match(pattern_cricket))
+// //console.log(bioData.search(pattern_cricket))
+
+
+// console.log(bioData.charCodeAt(50))
+
+//console.log(name.split('').reverse().join(''))
+
+
+/******************************************************/
+/*                  Booleans                          */
+/******************************************************/
+
+
+let something = []
+
+if (something){
+	console.log('Yes it is True')
+}
+else{
+	console.log('It is False')
+}
+
+/* 
+Truthy Values
+	1. Any number  except 0, Whether it is +ve or -ve are truthy values
+	2. Any Non-empty String
+	3. Boolean with true
+	4. if any Array length is not Zero
+
+Falsy Values
+	1. 0
+	2. ''
+	3. NaN
+	4. Undefined
+	5. null
+	6. false
+
+*/
