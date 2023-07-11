@@ -1,0 +1,104 @@
+What is HTML and what is its purpose?
+What is the difference between HTML and XHTML?
+What are the new features introduced in HTML5?
+How do you include comments in HTML?
+Explain the difference between <div> and <span> tags.
+What are semantic elements in HTML5 and why are they important?
+What is the purpose of the <header>, <nav>, <section>, and <footer> tags in HTML5?
+How do you create a hyperlink in HTML?
+What is the difference between <ol> and <ul> elements?
+How do you embed an image in HTML?
+Explain the difference between the <strong> and <em> tags.
+How do you create a table in HTML?
+What is the purpose of the <form> tag in HTML and how do you create a form?
+What are some new input types introduced in HTML5?
+How do you include audio and video content in HTML?
+What is the purpose of the <iframe> tag and how is it used?
+How do you add CSS styles to HTML elements?
+What is the role of the alt attribute in <img> tags?
+How do you create a numbered list with custom numbering styles in HTML?
+What is the difference between <script async> and <script defer>?
+What is responsive web design, and why is it important?
+How do you make a website responsive using CSS?
+What is a media query in CSS, and how is it used for responsive design?
+Explain the difference between a fluid layout and a fixed layout in terms of responsiveness.
+How do you make images responsive in CSS?
+What are breakpoints in responsive design, and how are they determined?
+How can you hide elements on specific screen sizes using CSS?
+What is the purpose of the max-width property in responsive CSS?
+How do you create a responsive navigation menu using CSS?
+Explain the concept of mobile-first design and how it relates to responsive CSS.
+What is CSS Flexbox, and what problem does it solve?
+Explain the difference between flex container and flex items.
+How do you create a flex container in CSS?
+What are the main properties used to control the layout in Flexbox?
+How do you specify the direction of flex items within a flex container?
+What is the purpose of the flex-grow, flex-shrink, and flex-basis properties?
+How do you align flex items horizontally and vertically within a flex container?
+Explain the difference between justify-content and align-items properties in Flexbox.
+How can you control the order of flex items using CSS Flexbox?
+What are flexbox breakpoints, and how can they be used for responsive design?
+What are HTML attributes?
+Explain the difference between global attributes and element-specific attributes in HTML.
+How do you add attributes to an HTML element?
+What is the purpose of the id attribute in HTML, and how is it unique?
+What is the difference between the class attribute and the id attribute?
+Explain the role of the href attribute in HTML, particularly in the context of links and anchors.
+How do you add alternative text to an image using the alt attribute?
+What is the purpose of the target attribute in HTML links, and what are its possible values?
+How do you use the src attribute to embed an external resource, such as an image or video, in HTML?
+What is the purpose of the disabled attribute, and how is it used in HTML form elements?
+
+Is there any relation between Java and JavaScript
+Is JavaScript a compiled or interpreted language
+Is JavaScript a case-sensitive language
+What is nodejs
+
+What is the difference between let and var
+What are the differences between undeclared and undefined variables
+What is Hoisting
+What is scope in javascript
+What are reserved words? Can I use reserved words as identifiers
+Why do you need strict mode? How do you declare strict mode
+What are global variables
+What are the problems with global variables
+What is NaN property
+What is the purpose of delete operator
+What is the difference between null and undefined
+What are the bitwise operators available in javascript
+Can I redeclare let and const variables
+Does const variable makes the value immutable
+What is ES6? List down some of the features of ES6
+
+What are the possible ways to create objects in JavaScript
+What is the difference between slice and splice
+What is the difference between 
+	a. == and === operators
+	b. = and == 
+	c. %= and =
+What is a higher order function
+What is the currying function
+
+What are arrow functions
+What is a spread operator
+What is a rest parameter
+What happens if you do not use rest parameter as a last argument
+What are regular expression patterns
+What is a Regular Expression
+How do you search a string for a patterns
+What is the purpose of switch-case
+What are the conventions to be followed for the usage of swtich case
+What are primitive data types
+What are the different ways to access object properties
+What are the function parameter rules
+Different ways which create infinite loops
+
+What are template literals
+What are default values in destructuring assignment
+How do you swap variables in destructuring assignment
+Is that possible to use expressions in switch cases?
+What are the differences between for...of and for...in statements
+What are the differences between arguments object and rest parameter
+What are the differences between spread operator and rest parameter
+
+Explain all the array menthods, what are the outputs and whether the method modifies the original Array

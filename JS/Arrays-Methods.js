@@ -125,16 +125,50 @@ let x = [1, 2, 4, 5]
 
 // reduce
 
+// let number = [1,2,3,4,5]
+
+
+// let names = ['Ravindra Jadeja',
+// 'Axar Patel',
+// 'Ajinkya Rahane',
+// 'Shardul Thakur',
+// 'Mukesh Kumar']
+
+
+
+// let sum = names.reduce((init, el)   =>  init+", "+el.split(' ')[0], "===>")
+
+// console.log(sum)
+
+
+// Every
 let number = [1,2,3,4,5]
-
-
 let names = ['Ravindra Jadeja',
 'Axar Patel',
 'Ajinkya Rahane',
 'Shardul Thakur',
 'Mukesh Kumar']
 
-let sum = names.reduce((init, el)   =>  init+", "+el.split(' ')[0], "===>")
+let boolean_array = [false, false, false, false, false]
+// console.log(number.every(el => el <= 5))
 
-console.log(sum)
 
+// // Some
+// let boolean_array = [false, false, false, true, false]
+// console.log(boolean_array.some(el => el == true))
+
+
+
+// // Find
+// let voter_list = [18,29,26, 33,86, 16]
+// //console.log(voter_list.find(el => el < 18))
+
+
+// // FindIndex
+// console.log(voter_list.findIndex(el => el < 18))
+
+// let number_n = [1,[2,3],4,5]
+
+// console.log(number_n)
+
+// console.log(number_n.flat())

@@ -90,8 +90,6 @@ FrontEnd.splice(2,0,1,2,3,5)	   //at the particular index (1st parameter is inde
 
 
 //7. Create a sub array from an array
-
-
 let new_array1 = FrontEnd.slice(1,FrontEnd.length)
 
 
